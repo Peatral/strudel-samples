@@ -1,0 +1,6 @@
+{
+  "_base": "https://raw.githubusercontent.com/Peatral/strudel-samples/master/",
+  "glockenspiel": {
+	"c4": "glockenspiel/glockenspiel.wav"
+  }
+}
